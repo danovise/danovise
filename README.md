@@ -2,6 +2,15 @@ Hi, I’m Daria Sechko.
 
 I am a qualified iOS developer with experience in Swift mobile app development. Before becoming a developer, I worked as a product manager for a company with a medical profile. It helps me understand product and business goals, as well as thinking about the app from the customer's point of view. 
 
+Development environment: Xcode
+Languages: Swift
+UI Frameworks: SwiftUI, UIKit
+Stack Technologies: Code layout, Auto layout , SnapKit, JSON, Object-Oriented Programming (OOP), R.Swift, URLSession, SDWebImage, Table / Scroll / Collection View, UITabBarController
+Architectures and patterns: MVVM, MVC, SOLID
+Databases: UserDefaults, Firebase, KeychainWrapper
+Others: Git
+English: B1 
+
 You can contact me using Linkedin (https://www.linkedin.com/in/danovise) or gmail (dar.sechko@gmail.com)
 
 I will be glad to cooperate!
