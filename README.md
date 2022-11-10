@@ -6,13 +6,11 @@ Languages: Swift
 
 UI Frameworks: SwiftUI, UIKit
 
-Stack Technologies: Code layout, Auto layout , SnapKit, JSON, Object-Oriented Programming (OOP), R.Swift, URLSession, SDWebImage, Table / Scroll / Collection View, UITabBarController
+Stack Technologies: Code layout, Auto layout, Git, SnapKit, JSON, Object-Oriented Programming (OOP), R.Swift, URLSession, SDWebImage, Table / Scroll / Collection View, UITabBarController
 
 Architectures and patterns: MVC, MVP, MVVM, VIPER
 
 Databases: UserDefaults, Firebase, KeychainWrapper
-
-Others: Git
 
 English: B1 
 
