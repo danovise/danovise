@@ -18,6 +18,10 @@ Others: Git
 
 English: B1 
 
-You can contact me using Linkedin (https://www.linkedin.com/in/danovise) or gmail (dar.sechko@gmail.com)
+I follow new technologies and try to keep up with trends in mobile development. I tend to learn new things quickly and easily, and I am easy to learn and work with large amounts of information. In my work with partners and colleagues I show good communication skills.
+
+You can contact me using:
+- Linkedin: https://www.linkedin.com/in/danovise
+- Gmail: dar.sechko@gmail.com
 
 I will be glad to cooperate!
