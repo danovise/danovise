@@ -4,7 +4,7 @@ Development environment: Xcode
 
 Languages: Swift
 
-UI Frameworks: SwiftUI, UIKit
+UI Frameworks: UIKit
 
 Stack Technologies: Code layout, Auto layout, Git, SnapKit, JSON, Object-Oriented Programming (OOP), R.Swift, URLSession, SDWebImage, Table / Scroll / Collection View, UITabBarController
 
